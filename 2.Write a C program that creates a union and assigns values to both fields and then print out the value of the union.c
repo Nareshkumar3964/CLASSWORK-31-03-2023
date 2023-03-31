@@ -1,5 +1,4 @@
 # include<stdio.h>
-# include<conio.h>
 struct  employee
 {
 char name[50] ;
